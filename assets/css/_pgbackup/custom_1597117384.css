@@ -1,0 +1,268 @@
+/* Add here all your css styles (customizations) */
+.grid_row_height {
+    height: 506px;
+}
+
+.msp-cn-169-1 {
+    background-color: #ededed;
+    font-weight: normal;
+    line-height: normal;
+}
+
+.msp-cn-169-5 {
+    font-family: "Raleway";
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: normal;
+    white-space: nowrap;
+    color: #333333;
+    text-transform: uppercase;
+}
+
+.msp-cn-169-6 {
+    background-color: #ffffff;
+    padding-top: 7px;
+    padding-right: 25px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-size: 40px;
+    line-height: normal;
+    color: #333333;
+}
+
+.msp-cn-169-14 {
+    background-color: #ffffff;
+    padding-top: 7px;
+    padding-right: 25px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-size: 40px;
+    line-height: normal;
+    color: #333333;
+}
+
+.msp-cn-169-15 {
+    background-color: #ededed;
+    font-weight: normal;
+    line-height: normal;
+}
+
+.msp-cn-169-19 {
+    font-family: "Raleway";
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: normal;
+    white-space: nowrap;
+    color: #333333;
+    text-transform: uppercase;
+}
+
+.msp-cn-169-20 {
+    background-color: #ffffff;
+    padding-top: 7px;
+    padding-right: 25px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-size: 40px;
+    line-height: normal;
+    color: #333333;
+}
+
+.msp-cn-169-21 {
+    background-color: #ffffff;
+    padding-top: 7px;
+    padding-right: 25px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-size: 40px;
+    line-height: normal;
+    color: #333333;
+}
+
+.msp-cn-169-22 {
+    background-color: #ededed;
+    font-weight: normal;
+    line-height: normal;
+}
+
+.msp-cn-169-26 {
+    font-family: "Raleway";
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: normal;
+    white-space: nowrap;
+    color: #333333;
+    text-transform: uppercase;
+}
+
+.msp-cn-169-27 {
+    background-color: #ffffff;
+    padding-top: 7px;
+    padding-right: 25px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-size: 40px;
+    line-height: normal;
+    color: #333333;
+}
+
+.msp-cn-169-28 {
+    background-color: #ffffff;
+    padding-top: 7px;
+    padding-right: 25px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-size: 40px;
+    line-height: normal;
+    color: #333333;
+}
+
+.msp-cn-169-29 {
+    font-family: "Montserrat";
+    font-weight: 700;
+    font-size: 24px;
+    line-height: normal;
+    color: #333333;
+}
+
+.msp-cn-169-30 {
+    background-color: #0077B5;
+    font-weight: normal;
+    line-height: normal;
+    white-space: nowrap;
+    border-radius: 100%;
+}
+
+.ms-skin-minimal .ms-time-bar {
+    border-top: none !important;
+}
+
+.slider_height {
+    height: 50vh;
+}
+
+.grid_flexparent {
+    margin: 10px;
+}
+
+.grid_blue_bkg {
+    background-color: #0077B5;
+}
+
+.g-absolute_bottom {
+    position: absolute !important;
+    top: 75% !important;
+    left: 50% !important;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    -webkit-backface-visibility: hidden;
+}
+
+.height100p {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (min-width:480px) and (max-width:575px) {
+    * {
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+}
+
+.g-color-oksanacolor--hover:hover {
+    color: #ff7c7c !important;
+}
+
+.u-heading-v2-5--bottom {
+    color: #3a3a3a !important;
+}
+
+.main_size_portfolio {
+    margin-top: 8%;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+.main_size_portfolio_test {
+    margin: 10%;
+}
+
+.clients_margin {
+    padding: 4%;
+}
+
+.clients_margins_about_me {
+    margin: 5%;
+}
+
+.item-padding-30 {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+/* Add padding BETWEEN each column */
+.row,
+.row > .column {
+  padding: 8px;
+}
+
+
+
+/*Dinamic Filter Gallery */
+
+
+/* Clear floats after rows */ 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Content */
+.content {
+  background-color: white;
+  padding: 10px;
+}
+
+
+/* The "show" class is added to the filtered elements */
+.show {
+  display: block;
+}
+
+/* Style the buttons */
+.btn {
+  border: none;
+  outline: none;
+  padding: 12px 16px;
+  background-color: white;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #ddd;
+}
+
+.btn.active {
+  background-color: #666;
+  color: white;
+}
