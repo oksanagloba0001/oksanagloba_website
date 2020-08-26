@@ -24,7 +24,7 @@ color: #fff;
 }
 
 .hamburger:hover {
-    background-color: #fff !important;
+    opacity: .0;
 }
 
 .hamburger-box {

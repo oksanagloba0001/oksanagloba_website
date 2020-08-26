@@ -264,12 +264,12 @@
     border: none;
     outline: none;
     padding: 12px 16px;
-    background-color: #ff7c7c;
+    background-color: #dc6a6a;
     cursor: pointer;
 }
 
 .btn:hover {
-    background-color: #e15b5b;
+    background-color: #ff7c7c;
 }
 
 .btn.active {

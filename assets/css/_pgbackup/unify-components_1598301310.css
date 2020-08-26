@@ -2937,7 +2937,7 @@ body[class*="u-body--header-side"].u-body--header-side-opened .u-header__overlay
 .u-btn-primary:hover,
 .u-btn-primary:focus,
 .u-btn-primary.active {
-    color: #ffffff;
+    color: #fff;
 }
 
 .u-btn-primary.g-btn-hover-reset:hover,
@@ -28723,7 +28723,6 @@ select.form-control-lg:not([size]):not([multiple]) {
 ---------------------------------------------------- */
 .hamburger {
     padding: 10px;
-    color: ;
 }
 
 .hamburger-box {

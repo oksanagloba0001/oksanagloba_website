@@ -15938,10 +15938,7 @@
 @media (min-width: 0) {
     .g-pa-0 {
         padding: 0 !important;
-        background-color: #fff !important;
     }
-
-    background-color: #fff !important;
 
     .g-px-0 {
         padding-left: 0 !important;
@@ -19607,7 +19604,7 @@
     /* P */
     .g-py-120--md {
         padding-top: 8.57143rem !important;
-        padding-bottom: 2rem !important;
+        padding-bottom: 8.57143rem !important;
     }
 
     /* P */

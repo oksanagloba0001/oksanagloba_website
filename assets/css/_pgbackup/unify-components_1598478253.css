@@ -28723,7 +28723,7 @@ select.form-control-lg:not([size]):not([multiple]) {
 ---------------------------------------------------- */
 .hamburger {
     padding: 10px;
-    color: ;
+    color: #fff !important;
 }
 
 .hamburger-box {
